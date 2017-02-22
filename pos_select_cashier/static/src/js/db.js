@@ -1,5 +1,5 @@
 
-function openerp_pos_select_cashier_db(instance, module){ //module = openerp.point_of_sale;
+function odoo_pos_select_cashier_db(instance, module){ //module = odoo.point_of_sale;
     var QWeb = instance.web.qweb,
     _t = instance.web._t;
     
