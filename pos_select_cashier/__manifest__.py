@@ -23,7 +23,7 @@
 {
     'name': 'POS Select Cashier',
     'summary': 'Changing POS cashier easily',
-    'version': '8.0.1.0',
+    'version': '10.0.1.0',
     'category': 'Point Of Sale',
     'author': "binhnguyenxuan (www.xubi.me)",
     'website': 'http://www.xubi.me',
