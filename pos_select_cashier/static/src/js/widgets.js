@@ -1,4 +1,4 @@
-function openerp_pos_select_cashier_widgets(instance, module){ //module = openerp.point_of_sale;
+function odoo_pos_select_cashier_widgets(instance, module){ //module = odoo.point_of_sale;
     var QWeb = instance.web.qweb;
 	var _t = instance.web._t;
 	
