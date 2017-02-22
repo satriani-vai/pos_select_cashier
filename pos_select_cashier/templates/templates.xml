@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<openerp>
+<odoo>
     <data>
 
         <template id="index" name="select_cashier_module_index index"
@@ -22,4 +22,4 @@
             </xpath>
         </template>
     </data>
-</openerp>
+</odoo>
